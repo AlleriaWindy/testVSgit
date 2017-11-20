@@ -10,7 +10,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace SensorPic2
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form   //this is a form
     {
         public Form1()
         {
